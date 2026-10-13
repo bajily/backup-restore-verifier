@@ -1,0 +1,17 @@
+{
+  "snapshot_at": "2026-10-10T00:00:00Z",
+  "critical_paths": [
+    "database.snapshot",
+    "configuration.json"
+  ],
+  "manifest": [
+    {
+      "path": "database.snapshot",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 18
+    }
+  ],
+  "inline_files": {
+    "database.snapshot": "c3ludGhldGljIHNuYXBzaG90"
+  }
+}
